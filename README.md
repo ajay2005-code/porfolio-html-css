@@ -10,7 +10,7 @@ This is my first portfolio website built using only HTML5 and CSS3. It showcases
 👉 [Click here to view](https://ajay2005-code.github.io/portfolio-html-css/)
 
 ## 📸 Screenshot
-![Preview](screenshot-portfolio.png)
+![Preview](images/screenshot-portfolio.png)
 
 ## 📁 Features
 - Clean and responsive design
